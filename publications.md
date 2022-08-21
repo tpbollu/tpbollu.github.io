@@ -22,8 +22,11 @@ permalink: /pubs/
 
 ### Peer Reviewed Conference Abstracts
 - **Bollu T**, Ito BS, Whitehead SC, Kardon B, Redd J, Liu MH, Goldberg JH (Poster, 2020) Tongue kinematics reveal Cortex-dependent corrections as the mouse tongue reaches for, and misses, targets. Computational and Systems Neuroscience (COSYNE), Denver, CO
+
 - **Bollu T**, Whitehead S,Cohen I, Goldberg JH (Poster, 2018) Motor cortical control of vigor but not reach direction in freely moving mice. Computational and Systems Neuroscience (COSYNE), Denver, CO
+
 - **Bollu T**, Whitehead S,Cohen I, Goldberg JH (Selected Oral Presentation, 2018) Cortical control of vigor, but not timing or direction, in a center-out reach task in mice. Neural Control of Movement (NCM), Santa Fe, NM
+
 - **Bollu T**, Whitehead S,Cohen I, Goldberg JH (Selected Oral Presentation, 2018) Motor Cortex Inactivation Contracts Tongue and Forelimb Trajectories in Mice. Salk Motor Systems Symposium, La Jolla, CA  
 
 ### Patents
