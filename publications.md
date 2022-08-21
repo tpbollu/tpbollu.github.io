@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 ## Journal Articles
-- **Bollu T\* **, Ito BS\*, Whitehead SC, Kardon B, Redd J, Liu MH, Goldberg JH. Cortex-dependent corrections as the tongue reaches for and misses targets. Nature. 2021;594(7861):82-7. Epub 2021/05/21. doi: 10.1038/s41586-021-03561-9. [link]()
+- **Bollu T\***, Ito BS\*, Whitehead SC, Kardon B, Redd J, Liu MH, Goldberg JH. Cortex-dependent corrections as the tongue reaches for and misses targets. Nature. 2021;594(7861):82-7. Epub 2021/05/21. doi: 10.1038/s41586-021-03561-9. [link]()
 
 - **Bollu T**, Whitehead SC, Prasad N, Walker J, Shyamkumar N, Subramaniam R, Kardon B, Cohen I, Goldberg JH. Automated home cage training of mice in a hold-still center-out reach task. J Neurophysiol. 2019;121(2):500-12. Epub 2018/12/13. doi: 10.1152/jn.00667.2018. [link]()
 
