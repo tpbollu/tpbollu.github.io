@@ -5,7 +5,9 @@ permalink: /pubs/
 ---
 
 ### Journal Articles
-- Virlogeux A\*, **Bollu T\***, Ren X, Palma A, Goulding M. The Dorsal Column Nuclei Transmit the Network Signatures of Mechanical Allodynia. Cell Reports. 2025 *(in Press)*
+- **Bollu T** and Goulding M. The cervical spinal cord constructs a neural geometry for forelimb proprioception. 2025 *(in review)*
+
+- Virlogeux A\*, **Bollu T\***, Ren X, Palma A, Goulding M. The Dorsal Column Nuclei Transmit the Network Signatures of Mechanical Allodynia. Cell Reports. 2025 Sep 23;44(9). [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01019-8)
 
 - **Bollu T**, Whitehead SC, Prasad N, Walker J, Shyamkumar N, Subramaniam R, Kardon B, Cohen I, Goldberg JH. Motor cortical inactivation impairs corrective submovements in mice performing a hold-still center-out reach task. J Neurophysiol. 2024;132(3):829-848. [link](https://journals.physiology.org/doi/abs/10.1152/jn.00241.2023)
 
