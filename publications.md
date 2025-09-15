@@ -29,4 +29,4 @@ permalink: /pubs/
 - Chen R, **Bollu T**, Goldberg JH. A Stable Neural Code for Birdsong. Neuron. 2018;98(6):1057-9. Epub 2018/06/29. doi: 10.1016/j.neuron.2018.06.017. [link](https://www.sciencedirect.com/science/article/pii/S0896627318304859)
 
 ### Patents
-- Cortese AJ, **Bollu T**, Goldberg JH. Optical relay station-based implantable sensor modules. US Patent App. 17/594,407, 2022
+- Cortese AJ, **Bollu T**, Goldberg JH. Optical relay station-based implantable sensor modules. US Patent 11,484,729, 2022 [link](https://patents.google.com/patent/US11484729B2/en)
