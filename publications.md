@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 ### Journal Articles
-- **Bollu T** and Goulding M. The cervical spinal cord constructs a neural geometry for forelimb proprioception. 2025 *(in review)*
+- **Bollu T** and Goulding M. The cervical spinal cord constructs a neural geometry for forelimb proprioception. 2025 *(in review)* [biorXiv link](https://www.biorxiv.org/content/10.1101/2025.09.26.678887v1)
 
 - Virlogeux A\*, **Bollu T\***, Ren X, Palma A, Goulding M. The Dorsal Column Nuclei Transmit the Network Signatures of Mechanical Allodynia. Cell Reports. 2025 Sep 23;44(9). [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01019-8)
 
