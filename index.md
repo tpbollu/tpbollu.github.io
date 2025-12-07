@@ -12,7 +12,7 @@ layout: page
 	+ A robotic system to precisely move the limb of a mouse with micron-millisecond resolution and apply micro-newton scale coriolis forces in real time.
 	+ A deep-learning based system to track tongue kinematics with ~10 micron resolution
 	+ A hall-sensor based joystick for mice with micron-millisecond resolution, and a fully automated high-throughput system that trains mice to use these devices in closed-loop.
-		
+
 + I'm currently a Postdoctoral Fellow at the Salk Institute, I did my PhD and M.Eng at Cornell. My research has been supported by several competitive fellowships.
 	+ Postdoctoral Fellow with [Martyn Goulding](https://www.salk.edu/scientist/martyn-goulding/) at the Salk Institute for Biological Studies. My work at the Salk has been supported by fellowships from the [Helen Hay Whitney Foundation](http://hhwf.org/) and the [Brown Foundation](https://www.thebrownfoundation.org/).
 	+ PhD research with [Jesse Goldberg](https://nbb.cornell.edu/jesse-h-goldberg) at [Neurobiology and Behavior, Cornell University](https://nbb.cornell.edu/). Supported by a Cornell-Mong Neurotech Fellowship and a Cornell University Fellowship.
